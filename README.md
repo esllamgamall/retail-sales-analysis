@@ -225,6 +225,6 @@ This project demonstrates an end-to-end retail sales analytics workflow, from ra
 
 ---
 
-### 👤 Created by Simranpreet Kaur
+### Created by eslam gamal
 
 Aspiring Data Analyst | SQL | Excel | Power BI | Business Intelligence
